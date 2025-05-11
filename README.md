@@ -39,6 +39,3 @@
 
 ##  📈 Пример графика
 ![Пример скриншота](Screenshot.png)
-
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen )] https://analysis-9mk4fkammffe3kccj4c5fk.streamlit.app/
-
