@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Онлайн-версия
-👉 [Открыть приложение](http://localhost:8501/ )
+👉 [Открыть приложение]([http://localhost:8501/](https://analysis-9mk4fkammffe3kccj4c5fk.streamlit.app/) )
 
 ---
 
@@ -40,6 +40,6 @@
 ##  📈 Пример графика
 ![Пример скриншота](Screenshot.png)
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen )](ссылка_на_ваше_приложение)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen )]([ссылка_на_ваше_приложение](https://analysis-9mk4fkammffe3kccj4c5fk.streamlit.app/))
 
 
